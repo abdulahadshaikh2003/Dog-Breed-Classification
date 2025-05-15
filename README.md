@@ -2,15 +2,13 @@
 
 A deep learning model that classifies dog breeds from images using PyTorch and transfer learning.
 
-![Dog Breed Classification Example](https://example.com/dog-classification-example.jpg) *(Replace with your own example image)*
-
-## 🚀 Features
+# Features
 - Classifies 120+ dog breeds
 - Uses EfficientNet-B0 with transfer learning
 - Handles corrupted/inaccessible images gracefully
-- Achieves ~70% validation accuracy with minimal training
+- Achieves ~80% validation accuracy with minimal training
 
-## 📦 Installation
+# Installation
 
 1. **Clone the repository**
    ```bash
