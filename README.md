@@ -14,7 +14,7 @@ A deep learning model that classifies dog breeds from images using PyTorch and t
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/dog-breed-classifier.git
+   git clone https://github.com/abdulahadshaikh2003/Dog-Breed-Classification.git
    cd dog-breed-classifier
 
 
