@@ -32,4 +32,4 @@ dog-breed-classifier/
 └── README.md
 
 ✉️ Contact
-Your Name - abdulahadshaikh2003@gmail.com
+abdulahadshaikh2003@gmail.com
